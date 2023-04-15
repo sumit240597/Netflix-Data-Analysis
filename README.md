@@ -11,7 +11,6 @@ I have perform some steps of EDA with the help of all importnt libarries.
 # Data Cleaning:
 I have perform data cleaning process with dupliacted ,isnull method and dropna method also for droping null values.
 
-![image](https://user-images.githubusercontent.com/125980712/232229222-473d4381-52e9-4543-b0a6-275682f23611.png)
 
 
 # Data Visulization:
